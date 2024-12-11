@@ -3,7 +3,6 @@
 <head>
 <h1 align="center"> Yannish's GitHub Page
 <h3 align="center"><b>Hi, I'm Yannish, I'm 21 y/o cybersecurity student in Toronto.<b></b></h3>
-![11561016484e6f47b17ab2b2ce53950a](https://github.com/user-attachments/assets/6f79f598-a980-4809-a70a-97f2e33e5995)
 
 </head>
 <br>
