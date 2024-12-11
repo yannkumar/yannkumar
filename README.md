@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
-- 🔭 I’m currently preparing for my eJPT certification.
-  
-- 📫 Find me at: https://www.linkedin.com/in/yannishkumar
+<ul>
+   <li>🔭 I’m currently preparing for my eJPT certification.</li>
+   <li>📫 Reach out to me via</li>
+    <ul>
+      <li> 📙 Linkedin: https://www.linkedin.com/in/yannishkumar </li>
+      <li> 📧 Gmail: yannishkumar@gmail.com </li>
+    </ul>
+</ul>
