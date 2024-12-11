@@ -1,4 +1,4 @@
-## Hi I'm Yannish welcome!!
+## <h1 align="center"> Yannish's GitHub Page
 
 <!--
 **yannkumar/yannkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently preparing for my eJPT
-- 📫 How to reach me: https://www.linkedin.com/in/yannishkumar
+- 🔭 I’m currently preparing for my eJPT certification.
+  
+- 📫 Find me at: https://www.linkedin.com/in/yannishkumar
