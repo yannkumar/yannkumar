@@ -1,5 +1,5 @@
 <h1 align="center"> Yannish's GitHub Page
-<h3 align="center"><b>Hi, I'm Yannish, I'm 21 currently studying cybersecurity in Toronto 😄.<b></b></h3>
+<h3 align="center"><b>Hi, I'm Yannish, I'm 21 y/o cybersecurity student in Toronto 😄.<b></b></h3>
 
 <!--
 **yannkumar/yannkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
