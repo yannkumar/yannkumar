@@ -7,7 +7,7 @@
 </head>
 <br>
 <ul>
-   <li>🔭 I’m currently preparing for my eJPT certification.</li>
+   <li>🔭 I’m currently preparing for my PJPT certification.</li>
    <li>📫 Reach out to me via</li>
     <ul>
         <li>📙 Linkedin: <a href="https://www.linkedin.com/in/yannishkumar" target="_blank">https://www.linkedin.com/in/yannishkumar</a></li>
